@@ -23,7 +23,8 @@ public class Avg {
 		 
 	double average = (float) sum/a.length;
                                   
-	System.out.println(average);	
+	System.out.println(average);
+		System.out.println(average);
 	 
 	}    
 	
