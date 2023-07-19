@@ -25,6 +25,7 @@ public class Avg {
                                   
 	System.out.println(average);
 		System.out.println(average);
+		System.out.println("Hi");
 	 
 	}    
 	
